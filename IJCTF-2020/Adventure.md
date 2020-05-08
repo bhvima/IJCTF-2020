@@ -175,7 +175,7 @@ Decoding from binary we get,
 
 ##Jade Key
 
-[Challenge File](./files/QjMvUzIz.png)
+![Challenge File](./files/QjMvUzIz.png)
 
 The file name when decoded from Base64 gives us `B3/S23`. Some googling reveals that it is a reference to `Conway's Game of Life`. The image must therefore be the inital pattern we have to run. We can use this online version of the game, (https://copy.sh/life/).
 
@@ -215,7 +215,7 @@ print(compress.replace("$", "$\n"))
 
 We can now simply copy and paste the output onto to the webstie and let it run. Initially it may look like nothing interesting is happening. But if we fast forward a bit, we get this. 
 
-[Jade Key](./files/Jade.gif)
+![Jade Key](./files/Jade.gif)
 
 ##Crystal Key
 
@@ -253,6 +253,6 @@ plt.scatter(X,Y, color='red')
 plt.show()
 ```
 
-[Crystal Key IROK](./files/Crystal.png)
+![Crystal Key IROK](./files/Crystal.png)
 
 Flag **IJCTF{kn4ps4ck_brut3_f0rrc3_u1t1m4t3_g4m3_0f_l1f3_IROK}**
