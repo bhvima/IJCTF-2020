@@ -98,7 +98,7 @@ https://pastebin.com/dbQXYRvZ
 As the challenge mentions the use of 3 keys, we can assume each link will lead us to a key.
 
 
-##Copper Key
+## Copper Key
 
 The title of the pastebin says knapsack referring possibly to the Merkle–Hellman knapsack cryptosystem.
 
@@ -173,7 +173,7 @@ Decoding from binary we get,
 `The honor is all mine.Get yourself a copper key. kn4ps4ck_brut3_f0rrc3`
 
 
-##Jade Key
+## Jade Key
 
 ![Challenge File](./files/QjMvUzIz.png)
 
@@ -217,7 +217,7 @@ We can now simply copy and paste the output onto to the webstie and let it run. 
 
 ![Jade Key](./files/Jade.gif)
 
-##Crystal Key
+## Crystal Key
 
 The title of the pastebin is a link (https://youtu.be/r6sGWTCMz2k) to an excellent video by 3blue1brown on Fourier Series. In the video Grant Sanderson shows a way to draw an arbritary image using a fourier series. The text in the link appears to be a malformed fourier series itself. 
 
